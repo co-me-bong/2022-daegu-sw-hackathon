@@ -87,6 +87,8 @@
 
 ## 5. 시연 영상
 
-<a src="https://www.youtube.com/watch?v=fPe1LlsrCaI">유튜브 시연 영상</a>
+<a href="https://www.youtube.com/watch?v=fPe1LlsrCaI">유튜브 시연 영상</a>
 
-- 00:00 기능 시연
+- 00:00 코드 시연
+- 00:05 영상 시작
+- 00:09 포트홀 출몰 (인식 완료)
